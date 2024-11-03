@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Canadian Cheese case study ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | This repository contains solutions to problem sets analyzing a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
+| 👩🏻‍💻 [Canadian Cheese case study ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | Solutions to problem sets analyzing over 1,450 Canadian cheeses by milk type, style, treatment, fat content and production method from a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
 ***
 
 # Tableau
