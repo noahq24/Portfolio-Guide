@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
+| 👩🏻‍💻 [Canadian Cheese case study ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | This repository contains solutions to problem sets analyzing a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
 ***
 
 # Tableau
