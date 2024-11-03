@@ -18,8 +18,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Canadian Cheese case study ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | Solutions to problem sets analyzing over 1,450 Canadian cheeses by milk type, style, treatment, fat content and production method from a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
-| 👩🏻‍💻 [Citi bike case study ](https://github.com/noahq24/bike/blob/main/Citi_bike.ipynb) | Data analysis, data cleaning, data transformation | This study focuses on analyzing [2023 Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) to uncover insights on usage patterns between these groups. | - | 
+| 👩🏻‍💻 [Canadian Cheese ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | Solutions to problem sets analyzing over 1,450 Canadian cheeses by milk type, style, treatment, fat content and production method from a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
+| 👩🏻‍💻 [Citi bike ](https://github.com/noahq24/bike/blob/main/Citi_bike.ipynb) | Data analysis, data cleaning, data transformation | This study focuses on analyzing [2023 Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) to uncover insights on usage patterns between these groups. | - | 
 
 
 
