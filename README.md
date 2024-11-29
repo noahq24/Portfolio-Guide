@@ -18,8 +18,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+| 🚲 [Citi bike ](https://github.com/noahq24/bike/blob/main/Citi_bike.ipynb) | Data analysis, data cleaning, data transformation | This study focuses on analyzing [2023 Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) to uncover insights on usage patterns between these groups. | - | 
 | 👩🏻‍💻 [Canadian Cheese ](https://github.com/noahq24/Cheese/blob/main/README.md) | Data analysis, data cleaning, data transformation | Solutions to problem sets analyzing over 1,450 Canadian cheeses by milk type, style, treatment, fat content and production method from a csv file from [kaggle](https://www.kaggle.com/datasets/noahjanes/canadian-cheese-directory). | - | 
-| 👩🏻‍💻 [Citi bike ](https://github.com/noahq24/bike/blob/main/Citi_bike.ipynb) | Data analysis, data cleaning, data transformation | This study focuses on analyzing [2023 Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) to uncover insights on usage patterns between these groups. | - | 
+|🏠 [House Sales in King County, USA](https://github.com/noahq24/House_sales/blob/main/House_Sales_in_King_Count_USA.ipynb)|Data analysis, data cleaning, data transformation/Modeling|To analyze and predict house prices in King County, Washington, based on various features such as square footage, bedrooms, bathrooms, and other property attributes. This analysis will support investment decisions in residential real estate|---|
 
 
 
