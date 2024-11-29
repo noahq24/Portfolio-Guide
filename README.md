@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
+- [Machine Learning](#machine-learning) 
 - [Tableau](#tableau)
 
 # SQL
@@ -23,6 +24,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |🏠 [House Sales in King County, USA](https://github.com/noahq24/House_sales/blob/main/House_Sales_in_King_Count_USA.ipynb)|Data analysis, data cleaning, data transformation/Modeling|To analyze and predict house prices in King County, Washington, based on various features such as square footage, bedrooms, bathrooms, and other property attributes. This analysis will support investment decisions in residential real estate|---|
 
 
+# Machine Learning
+| Project Link | Area | Project Description | Libraries |  
+|---|---|---|---|
+|🏭 [Testing Regression Models on Combined Cycle Power Plant](https://github.com/noahq24/Machine_Learning/blob/main/Combined_Cycle_Power_Plant.ipynb) | Predictive Modeling, Data Science Techniques|This project analyzes data from a Combined Cycle Power Plant using machine learning techniques,to predict the plant’s energy output|---|
 
 # Tableau
 
