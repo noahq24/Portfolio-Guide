@@ -25,9 +25,17 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 # Machine Learning
+
 | Project Link | Area | Project Description | Libraries |  
 |---|---|---|---|
 |🏭 [Testing Regression Models on Combined Cycle Power Plant](https://github.com/noahq24/Machine_Learning/blob/main/Combined_Cycle_Power_Plant.ipynb) | Predictive Modeling, Data Science Techniques|This project analyzes data from a Combined Cycle Power Plant using machine learning techniques,to predict the plant’s energy output|---|
+
+
+# Deep Learning
+| Project Link | Area | Project Description | Libraries |  
+|---|---|---|---|
+|[Bird Species Dataset (CNN)Convolutional Neural Network(CNN)](https://github.com/noahq24/Deep_learning/blob/main/README.md) |Focus on Machine Learning, particularly in Computer Vision, with applications in Ornithology and Wildlife Conservation.|Build a Convolutional Neural Network (CNN) to classify bird species based on images.Train the model using images and biological data of six bird species|---|
+
 
 # Tableau
 
