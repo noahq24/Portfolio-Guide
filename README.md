@@ -5,7 +5,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [Machine Learning](#machine-learning) 
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
 - [Tableau](#tableau)
 
 # SQL
