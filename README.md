@@ -6,6 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Machine Learning](#machine-learning)
+- [Enviromental Science](#enviromental-science)
 - [Deep Learning](#deep-learning)
 - [Tableau](#tableau)
 
@@ -36,6 +37,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|
 |🐦 [Bird Species Dataset (CNN)Convolutional Neural Network(CNN)](https://github.com/noahq24/Deep_learning/blob/main/README.md) |Focus on Machine Learning, particularly in Computer Vision, with applications in Ornithology and Wildlife Conservation.|Build a Convolutional Neural Network (CNN) to classify bird species based on images.Train the model using images and biological data of six bird species|---|
 
+# Enviromental Science
+| Project Link | Area | Project Description | Libraries |  
+|---|---|---|---|
+|---|---|---|---|
 
 # Tableau
 
