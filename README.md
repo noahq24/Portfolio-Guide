@@ -40,7 +40,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Enviromental Science
 | Project Link | Area | Project Description | Libraries |  
 |---|---|---|---|
-|---|---|---|---|
+|🌊[Coastal Development and Flood Risk Mitigation](https://github.com/noahq24/Environmental-science-/blob/main/Screenshot%202024-12-15%20at%209.22.38%20PM.png)| GIS mapping, data analysis, flood risk assessment, and presentation design| This project analyzes the environmental and economic impacts of coastal development in Flushing, Queens, with a focus on flood risks caused by sea-level rise. Using GIS models and data from the First Street Foundation Flood Model, the study identifies high-risk zones and evaluates urban development projects like the Special Flushing Waterfront District and the NYCFC Soccer Stadium.|---|
 
 # Tableau
 
